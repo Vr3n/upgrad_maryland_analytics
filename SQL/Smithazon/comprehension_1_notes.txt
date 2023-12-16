@@ -1,0 +1,13 @@
+-- Comprehension 1: Simple SQL Queries + Filtering 
+
+-- Q1. All categories
+-- The team wants to know the list of all product categories that Smithazon deals in. Which of the following SQL code will print the name of all categories?
+
+-- Q2. Sporting goods
+- The organization has decided that it will increase its focus on the sporting goods category. 
+- The management therefore wants to know all the products that are a part of this category.
+- Hence you are required to write a SQL query to print the names of all products that fall 
+  under this category. (Note that the category id for sporting goods is 2)
+  
+  - fetch the products that are part of the sporting goods category.
+  - The sporting goods category id is 2.
