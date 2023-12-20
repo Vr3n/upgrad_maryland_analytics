@@ -1,0 +1,10 @@
+The "Buffet_Details.csv" data is a completely fabricated data set for use only on the upGrad platform.
+
+Any resemblance to entities past, present or future is merely a coincidence.
+
+Feature Description:
+Room = unique room number of the hotel room in which the guest is staying
+Name = first name of the guest
+Age = age of the guest in years
+Cuisine = type of cuisine selected by the guest in their previous meal
+Expenditure = total amount of money spent by the guest on their previous meal in the hotel in dollars

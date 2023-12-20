@@ -1,0 +1,1142 @@
+Salary,Age,State,Gender,Marital Status,Repeat,Type,Coupon,Spending
+46466,37,IL,Female,Single,No,Weight Loss,USPS,113.76
+47365,46,FL,Female,Married,No,Weight Loss,USPS,119.09
+48079,48,NJ,Female,Married,Yes,Weight Loss,Email,154.21
+48557,18,TX,Female,Single,No,Protein,Email,113.99
+49257,38,FL,Female,Single,Yes,Weight Loss,None,161.24
+49980,49,CA,Female,Single,No,Weight Loss,USPS,107.66
+50283,59,NY,Female,Married,Yes,Weight Loss,USPS,100.24
+50518,39,GA,Female,Single,Yes,Protein,USPS,134.53
+50673,37,NY,Female,Single,Yes,Vitamins,None,165.54
+50722,52,NY,Female,Married,No,Weight Loss,Email,111.1
+51081,31,FL,Female,Single,Yes,Vitamins,None,162.63
+51168,36,MI,Female,Single,Yes,Vitamins,None,146.81
+51253,41,GA,Female,Married,Yes,Vitamins,Email,148.84
+51283,27,CT,Female,Married,Yes,Weight Loss,None,124.32
+51448,43,FL,Female,Married,Yes,Protein,USPS,157.85
+51547,31,MO,Female,Single,Yes,Protein,Email,148.16
+51811,35,NY,Female,Single,No,Protein,None,141.25
+51833,51,CA,Female,Single,No,Weight Loss,None,124.06
+51943,33,WA,Female,Single,Yes,Protein,None,118.55
+52068,21,CA,Female,Single,No,Weight Loss,Email,140.45
+52168,50,CT,Female,Married,Yes,Protein,Email,152.82
+52192,49,TX,Female,Married,Yes,Weight Loss,None,131.17
+52269,48,NY,Female,Single,Yes,Vitamins,Email,140.86
+52351,48,NY,Female,Single,No,Weight Loss,Email,122.07
+52455,51,NJ,Female,Married,No,Weight Loss,USPS,111.22
+52484,39,MA,Female,Single,Yes,Weight Loss,USPS,140.21
+52486,33,NY,Female,Single,No,Weight Loss,Email,154.47
+52506,30,CA,Female,Married,Yes,Weight Loss,Email,140.29
+52513,39,NJ,Female,Single,Yes,Protein,USPS,130.57
+52540,26,NY,Female,Single,Yes,Weight Loss,None,149.69
+52640,55,FL,Female,Single,No,Weight Loss,Email,108.18
+52973,26,IL,Female,Single,No,Protein,Email,129.06
+53215,24,NY,Female,Single,Yes,Protein,None,157.96
+53236,52,MD,Female,Married,No,Vitamins,Email,115.13
+53248,36,IL,Female,Married,Yes,Protein,Email,143.12
+53297,31,WA,Female,Single,Yes,Vitamins,None,142.44
+53327,34,CA,Female,Married,Yes,Weight Loss,USPS,126.97
+53410,47,CA,Female,Single,No,Vitamins,Email,133.51
+53436,42,VA,Female,Married,Yes,Weight Loss,USPS,137.9
+53455,43,WA,Female,Married,Yes,Weight Loss,None,129.97
+53499,41,IL,Female,Single,Yes,Vitamins,Email,160.29
+53573,25,MA,Female,Single,No,Weight Loss,None,100.79
+53621,28,NJ,Female,Married,Yes,Weight Loss,None,148.17
+53677,59,NY,Female,Married,No,Protein,Email,107.79
+53692,45,NY,Female,Married,Yes,Weight Loss,USPS,138.09
+53757,46,MA,Female,Single,No,Vitamins,USPS,115.65
+53828,24,MI,Female,Single,Yes,Protein,Email,182.77
+53881,31,CA,Female,Married,Yes,Weight Loss,Email,144.06
+53889,41,VA,Female,Single,Yes,Protein,USPS,154.06
+54029,53,CA,Female,Single,Yes,Vitamins,Email,152.04
+54062,48,NJ,Female,Married,Yes,Vitamins,Email,147.51
+54141,54,MI,Female,Single,No,Weight Loss,Email,121.25
+54199,40,CA,Female,Married,Yes,Weight Loss,Email,148.53
+54216,48,CA,Female,Single,No,Vitamins,Email,161.26
+54277,36,TX,Female,Single,Yes,Weight Loss,USPS,147.16
+54279,27,FL,Female,Single,Yes,Vitamins,None,156.52
+54444,51,IL,Female,Married,Yes,Vitamins,USPS,132.65
+54462,42,NY,Female,Single,Yes,Weight Loss,None,193.9
+54490,34,FL,Female,Married,Yes,Weight Loss,USPS,120.97
+54548,43,IL,Female,Married,Yes,Vitamins,Email,162.05
+54601,39,NY,Female,Married,Yes,Weight Loss,Email,143.27
+54669,37,NY,Female,Single,Yes,Weight Loss,None,159.22
+54749,34,GA,Female,Married,Yes,Weight Loss,None,129.95
+54791,37,NY,Female,Single,Yes,Weight Loss,None,158.01
+54932,40,MI,Female,Married,Yes,Weight Loss,None,130.47
+54936,22,CA,Female,Single,Yes,Vitamins,None,133.29
+54943,33,FL,Female,Married,Yes,Weight Loss,None,133.34
+54960,38,NJ,Female,Single,Yes,Vitamins,USPS,150.31
+54981,48,MA,Female,Married,Yes,Protein,Email,139.18
+55028,21,NY,Female,Married,Yes,Protein,None,139.87
+55047,44,NJ,Female,Single,No,Vitamins,USPS,143.43
+55055,37,NY,Female,Married,Yes,Protein,USPS,145.13
+55080,46,NY,Female,Married,Yes,Weight Loss,None,147.69
+55135,33,CA,Female,Single,No,Vitamins,Email,121.76
+55166,46,FL,Female,Single,Yes,Protein,Email,150.54
+55242,38,CA,Female,Single,Yes,Weight Loss,USPS,165
+55295,40,IL,Female,Single,Yes,Protein,USPS,144.5
+55363,25,IL,Female,Single,Yes,Protein,Email,151.21
+55380,36,NJ,Female,Married,Yes,Protein,Email,133.46
+55430,23,MI,Female,Single,Yes,Protein,None,127.79
+55490,41,NY,Female,Married,Yes,Weight Loss,Email,126.11
+55510,32,VA,Female,Single,Yes,Protein,None,157.76
+55521,41,CA,Female,Single,No,Weight Loss,Email,117.81
+55662,35,NY,Female,Single,Yes,Protein,None,138.19
+55742,43,FL,Female,Single,No,Weight Loss,None,144.38
+55776,26,FL,Female,Single,Yes,Protein,Email,161.62
+55856,51,FL,Female,Married,No,Weight Loss,USPS,107.18
+55877,35,MI,Female,Single,Yes,Vitamins,USPS,138.87
+55905,42,MI,Female,Single,Yes,Weight Loss,USPS,125.38
+55951,29,NY,Female,Single,Yes,Vitamins,None,151.06
+55962,63,CA,Female,Married,Yes,Weight Loss,USPS,95.08
+55972,27,OR,Female,Single,Yes,Protein,Email,133.58
+55973,37,IL,Female,Single,No,Weight Loss,Email,127.65
+55978,36,CT,Female,Single,Yes,Protein,None,141.48
+56008,33,FL,Female,Married,No,Weight Loss,Email,128.28
+56017,57,IL,Female,Married,No,Weight Loss,None,105.33
+56035,39,NY,Female,Single,No,Weight Loss,Email,143.65
+56088,23,FL,Female,Married,Yes,Protein,Email,129.63
+56091,35,GA,Female,Married,Yes,Weight Loss,None,119.74
+56096,54,NY,Female,Single,No,Vitamins,None,105.57
+56125,31,NY,Female,Single,No,Vitamins,None,142.52
+56184,28,WA,Female,Single,Yes,Vitamins,Email,136.23
+56192,42,MA,Female,Married,Yes,Weight Loss,None,147.09
+56259,57,NY,Female,Single,No,Weight Loss,USPS,118.12
+56260,37,NY,Female,Married,Yes,Weight Loss,Email,142.82
+56307,40,CA,Female,Single,No,Protein,None,119.81
+56314,50,NY,Female,Married,No,Vitamins,Email,108.87
+56324,33,WA,Female,Married,Yes,Vitamins,Email,148.49
+56333,36,IL,Female,Married,Yes,Weight Loss,None,147.5
+56401,36,CA,Female,Single,Yes,Vitamins,Email,146.55
+56421,29,NY,Female,Single,Yes,Weight Loss,Email,181.15
+56434,35,VA,Female,Married,Yes,Weight Loss,None,146.27
+56441,27,FL,Female,Single,Yes,Protein,Email,157.52
+56553,44,MI,Female,Married,Yes,Vitamins,Email,139.98
+56556,23,IL,Female,Single,Yes,Weight Loss,None,153.22
+56582,28,FL,Female,Single,Yes,Weight Loss,USPS,140.77
+56615,38,OR,Female,Married,Yes,Weight Loss,None,141.71
+56634,21,WA,Female,Married,Yes,Weight Loss,USPS,108.43
+56661,28,FL,Female,Married,Yes,Vitamins,Email,136.84
+56708,37,NY,Female,Single,Yes,Protein,USPS,165.26
+56725,63,IL,Female,Single,No,Protein,None,100.36
+56745,49,CT,Female,Married,Yes,Vitamins,Email,106.63
+56761,47,FL,Female,Married,Yes,Weight Loss,Email,140.35
+56802,33,NY,Female,Single,Yes,Vitamins,None,133.73
+56811,33,VA,Female,Married,Yes,Weight Loss,Email,125.14
+56828,51,FL,Female,Single,No,Weight Loss,Email,107.04
+56839,57,NY,Female,Married,Yes,Weight Loss,None,129.45
+56843,31,NY,Female,Married,Yes,Vitamins,None,156.47
+56858,36,MD,Female,Single,No,Weight Loss,USPS,119.1
+56874,49,FL,Female,Married,Yes,Protein,Email,128.69
+56980,38,WA,Female,Married,Yes,Weight Loss,None,129.5
+57057,36,NJ,Female,Married,No,Weight Loss,USPS,118.07
+57067,23,NY,Female,Single,Yes,Protein,Email,143.36
+57073,34,NY,Female,Married,Yes,Protein,Email,166.53
+57117,37,WA,Female,Married,Yes,Weight Loss,None,135.18
+57130,35,TX,Female,Married,Yes,Vitamins,Email,122.55
+57145,45,NY,Female,Married,No,Weight Loss,None,131.13
+57152,42,IL,Female,Single,Yes,Protein,Email,157.37
+57250,48,FL,Female,Single,No,Weight Loss,USPS,122.54
+57256,39,TX,Female,Single,Yes,Vitamins,USPS,167.47
+57288,33,VA,Female,Married,Yes,Protein,Email,137.89
+57292,41,IL,Female,Single,No,Weight Loss,None,120.66
+57305,39,MI,Female,Married,Yes,Protein,Email,134.38
+57309,40,CA,Female,Single,No,Protein,USPS,129.35
+57341,22,MD,Female,Single,Yes,Vitamins,None,128.53
+57400,46,MI,Female,Single,No,Weight Loss,Email,129.49
+57424,33,TX,Female,Married,No,Weight Loss,Email,132.96
+57469,33,NY,Female,Single,Yes,Weight Loss,None,164.67
+57477,25,NJ,Female,Single,Yes,Protein,Email,156.44
+57493,20,MI,Female,Single,Yes,Protein,Email,136.16
+57508,45,FL,Female,Married,Yes,Weight Loss,Email,147.01
+57566,44,NJ,Female,Married,No,Weight Loss,Email,124.95
+57570,38,NY,Female,Single,Yes,Protein,None,162.85
+57579,48,CA,Female,Married,Yes,Weight Loss,Email,160.75
+57621,30,TX,Female,Married,Yes,Vitamins,USPS,129.98
+57691,30,TX,Female,Single,Yes,Protein,Email,161.75
+57713,41,NY,Female,Married,No,Weight Loss,Email,127.46
+57764,48,CA,Female,Married,Yes,Vitamins,Email,118.49
+57770,31,CA,Female,Single,Yes,Protein,USPS,134.77
+57773,48,NJ,Female,Single,Yes,Protein,None,158.84
+57868,46,CA,Female,Married,Yes,Protein,Email,127.74
+57873,37,IL,Female,Single,No,Weight Loss,None,135.98
+57916,42,WA,Female,Single,No,Protein,USPS,129.39
+57916,43,MI,Female,Married,No,Vitamins,Email,132.6
+57940,26,IL,Female,Single,Yes,Weight Loss,USPS,122.12
+58018,57,NY,Female,Single,No,Weight Loss,Email,129.16
+58027,34,NJ,Female,Single,No,Vitamins,USPS,105.87
+58034,58,FL,Female,Married,Yes,Protein,Email,127.26
+58035,48,IL,Female,Single,Yes,Protein,Email,138.1
+58044,19,WA,Female,Single,Yes,Protein,None,143.88
+58053,30,MI,Female,Single,Yes,Vitamins,Email,163.15
+58057,41,NY,Female,Married,No,Weight Loss,Email,115.9
+58061,29,NY,Female,Single,Yes,Protein,USPS,149.95
+58064,55,CA,Female,Married,Yes,Weight Loss,Email,146.11
+58078,35,IL,Female,Single,No,Weight Loss,None,158.73
+58090,47,CA,Female,Single,No,Vitamins,Email,131.87
+58095,40,MD,Female,Married,No,Protein,Email,136.07
+58097,36,NY,Female,Single,Yes,Weight Loss,None,156.45
+58108,33,CA,Female,Married,Yes,Vitamins,None,162.8
+58108,36,NY,Female,Married,No,Weight Loss,USPS,143.93
+58131,24,FL,Female,Married,Yes,Protein,None,138.37
+58134,32,CA,Female,Single,Yes,Vitamins,Email,144.49
+58150,36,MI,Female,Single,Yes,Protein,None,137.62
+58160,29,MA,Female,Single,Yes,Weight Loss,None,149.78
+58181,36,MI,Female,Single,Yes,Protein,USPS,132.97
+58247,32,IL,Female,Married,Yes,Protein,USPS,126.24
+58254,46,NY,Female,Married,No,Protein,USPS,115.2
+58268,40,NJ,Female,Married,Yes,Weight Loss,None,145.66
+58269,35,FL,Female,Married,Yes,Vitamins,USPS,108.84
+58275,40,MA,Female,Married,Yes,Weight Loss,Email,145.96
+58329,38,FL,Female,Single,No,Weight Loss,None,114.86
+58382,33,WA,Female,Single,Yes,Weight Loss,None,153.61
+58438,32,WA,Female,Married,Yes,Vitamins,USPS,153.05
+58441,38,MI,Female,Single,Yes,Weight Loss,None,141.88
+58508,32,CT,Female,Single,No,Weight Loss,None,127.71
+58516,41,MA,Female,Married,No,Weight Loss,USPS,113.03
+58571,52,CA,Female,Single,No,Weight Loss,Email,126.58
+58627,24,NY,Female,Single,Yes,Weight Loss,None,159.65
+58630,19,IL,Female,Single,Yes,Protein,Email,142.37
+58634,41,NY,Female,Married,Yes,Weight Loss,Email,153.38
+58652,35,MD,Female,Single,No,Vitamins,Email,147.03
+58654,40,IL,Female,Single,No,Weight Loss,None,124.18
+58674,49,NJ,Female,Single,No,Weight Loss,Email,133.54
+58678,37,MI,Female,Married,Yes,Protein,Email,156.8
+58684,43,NY,Female,Married,Yes,Weight Loss,None,154.4
+58689,47,OR,Female,Married,Yes,Weight Loss,USPS,124.23
+58692,46,TX,Female,Single,No,Weight Loss,Email,123.04
+58706,47,FL,Female,Married,Yes,Weight Loss,USPS,139.58
+58734,31,NY,Female,Married,Yes,Vitamins,Email,151.73
+58789,42,IL,Female,Married,Yes,Vitamins,USPS,149.85
+58797,40,NJ,Female,Single,Yes,Protein,Email,147.19
+58806,53,CA,Female,Single,No,Vitamins,Email,137.51
+58820,54,NY,Female,Married,Yes,Protein,Email,155.91
+58836,44,NJ,Female,Married,Yes,Weight Loss,Email,129.08
+58855,32,MD,Female,Single,Yes,Protein,USPS,137.34
+58864,38,CA,Female,Single,No,Weight Loss,Email,156.62
+58879,45,CT,Female,Married,Yes,Weight Loss,USPS,140.06
+58995,32,FL,Female,Married,Yes,Vitamins,Email,145.62
+58997,55,CA,Female,Single,No,Vitamins,Email,107.21
+59057,28,GA,Female,Single,Yes,Weight Loss,None,145.35
+59080,35,CT,Female,Married,No,Weight Loss,None,118.95
+59142,47,MI,Female,Married,Yes,Weight Loss,Email,145
+59163,42,WA,Female,Single,Yes,Vitamins,Email,145.93
+59170,29,IL,Female,Single,Yes,Weight Loss,None,154.86
+59183,38,MA,Female,Single,Yes,Protein,None,169.27
+59184,32,NJ,Female,Married,No,Weight Loss,USPS,118.26
+59189,39,FL,Female,Married,Yes,Weight Loss,None,145.01
+59200,45,CA,Female,Married,Yes,Protein,Email,141.37
+59208,37,FL,Female,Single,No,Protein,Email,124.13
+59214,28,IL,Female,Single,No,Vitamins,None,127
+59278,46,NY,Female,Single,No,Weight Loss,Email,157.92
+59279,38,NY,Female,Single,No,Protein,USPS,129.13
+59304,43,PA,Female,Married,No,Weight Loss,Email,129.38
+59328,56,NY,Female,Married,Yes,Weight Loss,Email,141.18
+59370,44,WA,Female,Single,Yes,Vitamins,Email,154.46
+59413,29,MA,Female,Married,Yes,Weight Loss,Email,134.06
+59414,46,IL,Female,Single,No,Weight Loss,Email,131.39
+59415,42,NY,Female,Married,Yes,Vitamins,USPS,143.08
+59424,50,VA,Female,Married,Yes,Weight Loss,USPS,118.01
+59453,28,IL,Female,Single,Yes,Weight Loss,None,149.81
+59454,34,MA,Female,Married,Yes,Weight Loss,None,137.39
+59467,31,OR,Female,Single,No,Weight Loss,None,109.09
+59473,53,CA,Female,Married,No,Weight Loss,Email,109.07
+59486,37,NY,Female,Single,No,Protein,USPS,138.43
+59511,43,CA,Female,Single,No,Vitamins,Email,133.05
+59528,41,FL,Female,Married,Yes,Vitamins,None,127.45
+59538,34,MA,Female,Married,Yes,Vitamins,USPS,133.4
+59564,28,IL,Female,Married,Yes,Vitamins,None,135.13
+59572,54,CA,Female,Single,No,Protein,Email,112.94
+59590,38,IL,Female,Married,Yes,Weight Loss,None,148.29
+59631,36,FL,Female,Single,Yes,Protein,Email,175.86
+59636,48,OR,Female,Married,Yes,Vitamins,None,119.41
+59636,45,NY,Female,Married,Yes,Vitamins,USPS,150.45
+59637,37,NY,Female,Married,Yes,Protein,USPS,133.95
+59683,44,FL,Female,Married,Yes,Vitamins,None,125.18
+59687,23,IL,Female,Single,Yes,Protein,None,156.74
+59831,40,FL,Female,Single,No,Vitamins,Email,130.19
+59850,27,IL,Female,Single,Yes,Weight Loss,None,161.54
+59884,29,MA,Female,Married,Yes,Weight Loss,Email,143.92
+59915,26,IL,Female,Single,No,Protein,USPS,119.39
+59942,44,NJ,Female,Married,Yes,Weight Loss,USPS,130.69
+59947,51,FL,Female,Single,Yes,Vitamins,None,127.21
+59953,42,MA,Female,Married,Yes,Vitamins,Email,142.15
+59976,49,CA,Female,Married,No,Weight Loss,USPS,120
+59977,42,IL,Female,Married,Yes,Weight Loss,Email,165.56
+59990,34,MA,Female,Married,No,Weight Loss,None,110.58
+59993,30,NY,Female,Single,Yes,Vitamins,None,179.77
+60000,36,MA,Female,Married,Yes,Protein,Email,148.77
+60029,44,NY,Female,Single,No,Weight Loss,USPS,135.39
+60033,41,NY,Female,Single,No,Weight Loss,None,138.95
+60034,39,IL,Female,Single,Yes,Vitamins,None,175.67
+60038,26,CA,Female,Single,Yes,Weight Loss,None,152.03
+60051,32,OR,Female,Single,Yes,Protein,Email,169.92
+60064,25,MI,Female,Married,Yes,Weight Loss,None,131.89
+60114,27,MA,Female,Single,Yes,Weight Loss,None,144.52
+60123,52,NY,Female,Married,No,Weight Loss,Email,127.93
+60156,35,CA,Female,Single,No,Weight Loss,None,126.19
+60193,41,IL,Female,Single,No,Weight Loss,None,141.77
+60196,36,NY,Female,Single,No,Weight Loss,Email,152.72
+60198,54,IL,Female,Married,No,Weight Loss,Email,95.64
+60237,25,CA,Female,Married,Yes,Weight Loss,USPS,154.5
+60266,52,CA,Female,Single,No,Weight Loss,Email,108.72
+60267,30,FL,Female,Single,Yes,Protein,Email,152.61
+60277,28,CA,Female,Single,Yes,Weight Loss,None,159.73
+60292,21,MI,Female,Single,Yes,Vitamins,Email,159.43
+60295,31,NY,Female,Married,Yes,Weight Loss,None,143.88
+60300,38,NY,Female,Married,Yes,Vitamins,None,157.59
+60311,36,MA,Female,Single,Yes,Protein,USPS,120.25
+60330,37,CA,Female,Single,No,Protein,None,159.67
+60348,25,NY,Female,Married,Yes,Protein,None,138.25
+60420,49,CA,Female,Married,Yes,Protein,Email,139.81
+60424,19,MA,Female,Single,No,Weight Loss,None,132.71
+60430,29,MI,Female,Single,No,Weight Loss,None,129.42
+60436,50,WA,Female,Married,Yes,Weight Loss,Email,113.2
+60448,47,MA,Female,Single,No,Protein,Email,123.81
+60455,35,NJ,Female,Single,Yes,Protein,None,154.44
+60480,54,MD,Female,Married,Yes,Vitamins,Email,141.71
+60514,48,TX,Female,Married,Yes,Weight Loss,None,139.01
+60515,34,CT,Female,Married,Yes,Protein,None,133.24
+60520,44,NY,Female,Single,No,Protein,Email,170.44
+60538,29,VA,Female,Married,Yes,Weight Loss,None,118.91
+60541,45,NY,Female,Single,No,Weight Loss,USPS,127.11
+60576,27,CT,Female,Single,Yes,Protein,Email,148.27
+60618,32,MA,Female,Single,Yes,Weight Loss,Email,144.66
+60623,48,MA,Female,Single,No,Weight Loss,Email,139.17
+60636,35,IL,Female,Single,Yes,Protein,USPS,151.89
+60650,33,IL,Female,Married,Yes,Vitamins,USPS,145.52
+60655,41,NJ,Female,Married,Yes,Vitamins,None,174.8
+60659,23,FL,Female,Single,Yes,Vitamins,Email,130.32
+60670,28,MA,Female,Married,Yes,Protein,Email,131.41
+60675,43,FL,Female,Single,Yes,Weight Loss,Email,142.01
+60681,45,MA,Female,Married,Yes,Protein,Email,136.27
+60696,44,TX,Female,Single,No,Vitamins,Email,147.25
+60703,37,MI,Female,Single,Yes,Protein,None,148.49
+60704,33,FL,Female,Married,Yes,Weight Loss,None,163.81
+60714,38,NY,Female,Single,No,Weight Loss,Email,157.58
+60726,28,FL,Female,Married,Yes,Weight Loss,Email,151.26
+60734,20,NJ,Female,Married,Yes,Weight Loss,USPS,127.37
+60773,57,NY,Female,Single,No,Vitamins,None,124.49
+60810,38,NY,Female,Single,Yes,Weight Loss,USPS,145.47
+60812,38,WA,Female,Single,No,Vitamins,Email,145.79
+60827,62,WA,Female,Married,No,Weight Loss,USPS,75.08
+60837,43,MI,Female,Single,Yes,Protein,Email,172.38
+60841,56,NY,Female,Single,No,Weight Loss,Email,112.3
+60844,49,NY,Female,Married,No,Weight Loss,Email,126.05
+60880,28,CA,Female,Married,Yes,Weight Loss,None,137.44
+60880,43,NY,Female,Single,No,Vitamins,Email,144.66
+60886,42,NY,Female,Single,No,Weight Loss,USPS,143.41
+60899,53,CA,Female,Single,No,Weight Loss,Email,108.39
+60902,39,PA,Female,Single,No,Weight Loss,USPS,120.44
+60903,33,NY,Female,Single,No,Weight Loss,USPS,123.15
+60921,38,WA,Female,Single,No,Weight Loss,Email,132.6
+60935,33,NY,Female,Single,Yes,Weight Loss,Email,153.05
+60948,59,NY,Female,Married,Yes,Weight Loss,USPS,104.98
+60960,29,FL,Female,Single,No,Weight Loss,USPS,123.66
+60987,37,MA,Female,Single,Yes,Protein,USPS,159.62
+61064,51,FL,Female,Single,No,Weight Loss,Email,109.7
+61075,35,FL,Female,Married,Yes,Protein,None,123.32
+61080,43,NY,Female,Married,No,Weight Loss,None,131.85
+61084,48,IL,Female,Married,No,Weight Loss,Email,141.68
+61089,38,MI,Female,Married,Yes,Weight Loss,USPS,125.13
+61097,43,CA,Female,Single,No,Protein,None,154.74
+61129,38,NY,Female,Married,No,Vitamins,Email,122.03
+61148,36,CA,Female,Single,No,Weight Loss,Email,130.77
+61148,29,NY,Female,Married,Yes,Protein,Email,151.12
+61156,43,CA,Female,Married,No,Weight Loss,USPS,131.36
+61163,19,MD,Female,Married,Yes,Vitamins,None,127.04
+61203,32,NY,Female,Single,Yes,Weight Loss,None,143.13
+61210,34,NY,Female,Single,No,Weight Loss,None,131.93
+61290,42,FL,Female,Married,Yes,Protein,USPS,148.27
+61311,30,IL,Female,Single,Yes,Weight Loss,None,165.63
+61333,37,NY,Female,Single,Yes,Weight Loss,None,156.39
+61349,46,MO,Female,Married,Yes,Weight Loss,Email,141.54
+61350,42,TX,Female,Married,Yes,Protein,Email,154.46
+61393,34,FL,Female,Married,Yes,Protein,USPS,120.12
+61448,42,TX,Female,Married,Yes,Protein,Email,151.73
+61480,47,NY,Female,Married,Yes,Weight Loss,Email,159.63
+61483,40,NY,Female,Married,No,Vitamins,Email,158.07
+61487,28,NY,Female,Single,Yes,Protein,Email,180.93
+61492,41,NY,Female,Married,Yes,Weight Loss,None,149.15
+61494,34,MI,Female,Married,Yes,Weight Loss,Email,139.82
+61502,29,MD,Female,Married,Yes,Weight Loss,Email,131.24
+61509,28,MA,Female,Single,Yes,Protein,USPS,149.33
+61522,42,NY,Female,Married,Yes,Protein,Email,150.78
+61531,37,IL,Female,Married,Yes,Protein,Email,140.4
+61533,38,FL,Female,Single,No,Weight Loss,USPS,120.9
+61541,32,IL,Female,Single,No,Protein,USPS,124.07
+61541,49,NY,Female,Married,No,Weight Loss,Email,150.4
+61543,44,CA,Female,Single,No,Weight Loss,None,137.99
+61551,44,NY,Female,Single,No,Weight Loss,Email,136.15
+61558,36,OR,Female,Single,No,Weight Loss,Email,136.74
+61578,23,TX,Female,Single,Yes,Weight Loss,Email,147.28
+61589,20,FL,Female,Single,Yes,Protein,Email,147.4
+61589,48,MI,Female,Single,No,Weight Loss,Email,128.7
+61593,35,NY,Female,Married,Yes,Weight Loss,None,158.68
+61597,32,FL,Female,Single,No,Protein,Email,144.58
+61620,42,NY,Female,Married,Yes,Weight Loss,Email,143.97
+61620,38,MA,Female,Married,Yes,Protein,USPS,130.04
+61649,57,NY,Female,Single,No,Weight Loss,None,117.4
+61654,52,VA,Female,Married,Yes,Weight Loss,USPS,115.59
+61665,58,WA,Female,Married,Yes,Weight Loss,Email,114.78
+61667,49,OR,Female,Married,Yes,Protein,None,118.14
+61669,39,WA,Female,Married,Yes,Weight Loss,None,143.53
+61680,45,NY,Female,Married,No,Vitamins,Email,143.16
+61687,42,IL,Female,Single,Yes,Protein,None,149.95
+61708,31,FL,Female,Single,Yes,Protein,USPS,134.59
+61712,30,FL,Female,Single,Yes,Protein,Email,160.13
+61728,64,NY,Female,Single,No,Weight Loss,USPS,77.36
+61741,52,NY,Female,Married,No,Weight Loss,None,130.78
+61782,47,NY,Female,Married,Yes,Weight Loss,None,124.94
+61803,37,FL,Female,Single,No,Weight Loss,USPS,141.97
+61824,43,MO,Female,Single,No,Vitamins,None,134.15
+61833,19,FL,Female,Single,No,Protein,None,114.94
+61838,43,TX,Female,Married,Yes,Weight Loss,USPS,137.46
+61863,31,NY,Female,Single,No,Weight Loss,Email,126.75
+61868,40,NY,Female,Married,No,Vitamins,USPS,142.62
+61869,35,FL,Female,Married,Yes,Protein,Email,148.26
+61870,24,PA,Female,Single,No,Weight Loss,Email,126.26
+61907,46,FL,Female,Married,Yes,Weight Loss,USPS,131.19
+61983,33,NY,Female,Single,Yes,Protein,Email,135.85
+61986,35,NY,Female,Married,Yes,Protein,Email,154.46
+61991,21,NY,Female,Single,Yes,Protein,None,137.47
+61993,51,MA,Female,Married,Yes,Weight Loss,USPS,137.09
+62012,34,CA,Female,Married,Yes,Weight Loss,Email,157.91
+62017,32,MI,Female,Single,Yes,Weight Loss,None,138.65
+62028,39,NJ,Female,Single,No,Protein,USPS,140.99
+62037,45,OR,Female,Married,Yes,Weight Loss,Email,143.19
+62075,31,NJ,Female,Single,Yes,Protein,None,152.67
+62080,36,IL,Female,Single,Yes,Vitamins,Email,164.46
+62082,48,NY,Female,Married,No,Vitamins,Email,138.59
+62088,39,MD,Female,Married,Yes,Protein,None,133.66
+62100,38,IL,Female,Married,Yes,Weight Loss,None,139.58
+62102,31,CT,Female,Single,Yes,Protein,Email,146.17
+62137,30,IL,Female,Single,No,Protein,USPS,131.94
+62146,54,NY,Female,Married,No,Protein,Email,109.66
+62156,52,NY,Female,Married,Yes,Weight Loss,USPS,151.28
+62162,37,FL,Female,Single,Yes,Protein,Email,173.3
+62171,30,MO,Female,Single,Yes,Weight Loss,Email,167.07
+62173,34,NJ,Female,Married,Yes,Weight Loss,Email,145.13
+62188,35,NY,Female,Single,No,Protein,Email,151.72
+62195,42,FL,Female,Married,Yes,Weight Loss,Email,141.17
+62196,44,GA,Female,Single,No,Weight Loss,None,117.86
+62206,36,NY,Female,Single,Yes,Protein,Email,164.72
+62210,36,NY,Female,Married,Yes,Weight Loss,None,147.09
+62216,32,NY,Female,Single,Yes,Protein,USPS,131.86
+62231,48,CA,Female,Single,Yes,Protein,Email,132.58
+62253,35,MA,Female,Married,Yes,Weight Loss,USPS,120.51
+62271,39,IL,Female,Single,No,Weight Loss,Email,153.83
+62279,50,NJ,Female,Married,Yes,Vitamins,Email,154.36
+62329,22,FL,Female,Single,Yes,Protein,USPS,121.01
+62359,35,GA,Female,Single,Yes,Protein,Email,151.88
+62412,49,FL,Female,Single,No,Weight Loss,USPS,121.38
+62429,41,NY,Female,Single,No,Weight Loss,None,152.21
+62434,25,IL,Female,Single,Yes,Protein,USPS,131.73
+62463,34,IL,Female,Single,No,Weight Loss,None,132.43
+62492,42,TX,Female,Single,Yes,Protein,Email,157.88
+62545,40,MI,Female,Married,Yes,Weight Loss,None,137.53
+62621,33,NY,Female,Married,Yes,Weight Loss,Email,154.49
+62634,33,NY,Female,Single,Yes,Vitamins,Email,173.54
+62644,36,IL,Female,Married,Yes,Vitamins,Email,113.02
+62686,45,NJ,Female,Married,Yes,Weight Loss,Email,150.81
+62696,34,IL,Female,Single,No,Vitamins,None,155.14
+62718,40,TX,Female,Married,Yes,Weight Loss,Email,160.78
+62724,47,CA,Female,Single,Yes,Protein,None,134.77
+62738,30,MD,Female,Single,No,Weight Loss,Email,117.22
+62772,42,CA,Female,Married,Yes,Protein,None,177.04
+62776,36,CA,Female,Single,No,Vitamins,Email,125.21
+62780,45,CA,Female,Single,No,Weight Loss,Email,149.82
+62781,49,CA,Female,Single,No,Vitamins,Email,131.63
+62882,29,NY,Female,Married,Yes,Weight Loss,USPS,107.96
+63002,44,CA,Female,Married,No,Weight Loss,Email,120.16
+63057,47,MI,Female,Married,Yes,Weight Loss,None,146.15
+63073,40,NY,Female,Married,Yes,Weight Loss,Email,168.48
+63092,46,MI,Female,Single,No,Protein,Email,134.59
+63116,43,NJ,Female,Single,Yes,Protein,USPS,141.96
+63118,42,NY,Female,Single,No,Weight Loss,Email,143.44
+63120,43,FL,Female,Married,Yes,Weight Loss,None,134.41
+63135,35,IL,Female,Single,Yes,Protein,Email,176.62
+63156,41,IL,Female,Single,Yes,Vitamins,Email,150.28
+63206,29,NJ,Female,Single,No,Weight Loss,None,128.02
+63250,57,NY,Female,Married,Yes,Weight Loss,USPS,97.22
+63255,23,NY,Female,Single,No,Weight Loss,Email,129.27
+63268,33,NJ,Female,Single,No,Weight Loss,Email,133.51
+63323,42,NY,Female,Married,No,Weight Loss,Email,108.9
+63328,39,NJ,Female,Single,No,Protein,Email,146.89
+63344,44,NJ,Female,Single,No,Weight Loss,None,133.35
+63356,22,WA,Female,Married,Yes,Weight Loss,None,156.05
+63393,44,IL,Female,Married,No,Vitamins,Email,141.87
+63457,41,NY,Female,Married,No,Weight Loss,Email,117.59
+63486,49,NY,Female,Married,Yes,Weight Loss,Email,131.78
+63496,33,IL,Female,Single,No,Protein,Email,154.26
+63522,21,IL,Female,Single,Yes,Protein,None,121.85
+63524,33,FL,Female,Married,Yes,Weight Loss,Email,151.83
+63565,26,IL,Female,Single,Yes,Protein,USPS,161.95
+63568,47,IL,Female,Married,Yes,Weight Loss,USPS,124.99
+63570,42,PA,Female,Married,No,Weight Loss,None,108.6
+63584,40,IL,Female,Married,No,Weight Loss,Email,139.61
+63645,28,PA,Female,Married,Yes,Weight Loss,None,114.68
+63689,32,MA,Female,Single,No,Weight Loss,Email,134.17
+63699,23,TX,Female,Single,Yes,Weight Loss,None,152.28
+63754,35,NY,Female,Married,Yes,Weight Loss,None,135.8
+63764,37,NY,Female,Married,Yes,Weight Loss,Email,142.99
+63767,31,IL,Female,Single,Yes,Weight Loss,USPS,148.8
+63773,35,WA,Female,Married,Yes,Weight Loss,None,154.48
+63785,44,NY,Female,Married,No,Weight Loss,USPS,102.24
+63789,42,NY,Female,Married,No,Weight Loss,USPS,101.73
+63825,25,IL,Female,Single,Yes,Protein,None,153.27
+63848,55,IL,Female,Married,Yes,Weight Loss,None,135.73
+63891,24,CA,Female,Married,Yes,Protein,Email,136.35
+63940,32,NY,Female,Single,Yes,Weight Loss,None,178.77
+63940,44,NJ,Female,Married,Yes,Weight Loss,Email,134.29
+63943,41,NY,Female,Married,Yes,Weight Loss,USPS,113.66
+63966,50,FL,Female,Married,Yes,Protein,Email,132.45
+63976,40,TX,Female,Married,Yes,Vitamins,None,138.25
+63993,71,IL,Female,Married,No,Weight Loss,None,65.02
+64049,50,NY,Female,Single,Yes,Protein,None,132.88
+64063,56,NY,Female,Single,Yes,Weight Loss,None,146.24
+64115,25,CA,Female,Single,Yes,Protein,None,164.28
+64115,34,CT,Female,Single,Yes,Vitamins,None,151.87
+64145,37,NY,Female,Married,Yes,Weight Loss,Email,184.2
+64151,22,PA,Female,Single,Yes,Protein,Email,130.67
+64210,40,TX,Female,Single,No,Weight Loss,Email,136.39
+64211,45,CA,Female,Single,Yes,Protein,None,143.22
+64220,50,VA,Female,Married,Yes,Vitamins,None,135.18
+64227,42,NY,Female,Single,No,Weight Loss,Email,148.49
+64229,55,CA,Female,Single,No,Vitamins,USPS,108.82
+64231,46,IL,Female,Married,Yes,Vitamins,USPS,122.94
+64233,33,WA,Female,Single,Yes,Protein,USPS,153.83
+64295,40,IL,Female,Married,No,Vitamins,Email,139.97
+64331,42,FL,Female,Single,No,Protein,Email,149.47
+64333,43,MO,Female,Single,Yes,Protein,None,175.85
+64338,39,NY,Female,Single,No,Weight Loss,Email,152.21
+64385,27,MI,Female,Single,Yes,Protein,USPS,130.74
+64446,34,NY,Female,Single,No,Vitamins,Email,150.12
+64468,47,NY,Female,Single,No,Protein,None,122.25
+64473,39,MA,Female,Married,Yes,Weight Loss,None,126.19
+64507,29,PA,Female,Single,Yes,Protein,USPS,135.27
+64549,63,MD,Female,Married,No,Weight Loss,USPS,58.81
+64643,32,NJ,Female,Married,Yes,Weight Loss,None,143.15
+64667,26,NY,Female,Single,No,Weight Loss,None,121.6
+64670,54,FL,Female,Single,No,Weight Loss,Email,125.37
+64764,39,CT,Female,Single,No,Protein,Email,118.97
+64779,44,NY,Female,Married,Yes,Weight Loss,None,159.82
+64805,39,NY,Female,Single,Yes,Weight Loss,None,169.11
+64833,30,MI,Female,Single,Yes,Protein,None,155.11
+64848,44,MI,Female,Married,Yes,Weight Loss,Email,133.23
+64870,48,TX,Female,Single,No,Protein,Email,118.26
+64873,46,MA,Female,Married,Yes,Weight Loss,None,155.66
+64907,46,CA,Female,Single,Yes,Protein,USPS,136.09
+64910,31,CA,Female,Married,Yes,Protein,Email,143.26
+64924,46,TX,Female,Married,Yes,Weight Loss,None,129.99
+64928,56,NY,Female,Married,No,Weight Loss,None,111.36
+64957,53,WA,Female,Married,No,Weight Loss,Email,106.88
+64973,47,VA,Female,Married,No,Weight Loss,Email,115.03
+64995,30,MI,Female,Married,Yes,Protein,None,135.24
+65019,35,NY,Female,Married,Yes,Vitamins,Email,142.55
+65038,27,NJ,Female,Single,Yes,Protein,Email,151.43
+65117,42,NY,Female,Single,No,Weight Loss,Email,121.92
+65133,30,MO,Female,Single,Yes,Vitamins,None,138.7
+65236,50,IL,Female,Married,Yes,Vitamins,USPS,124.03
+65304,23,CT,Female,Single,Yes,Vitamins,None,136.42
+65345,34,OR,Female,Married,Yes,Weight Loss,USPS,127.67
+65393,48,FL,Female,Married,Yes,Weight Loss,USPS,119.17
+65401,29,MI,Female,Married,Yes,Weight Loss,None,126.63
+65427,46,IL,Female,Married,No,Weight Loss,Email,136.49
+65544,33,NJ,Female,Single,Yes,Vitamins,Email,165.96
+65547,39,IL,Female,Single,Yes,Vitamins,USPS,140.54
+65550,25,FL,Female,Single,Yes,Weight Loss,USPS,141.53
+65565,24,MI,Female,Single,Yes,Weight Loss,None,130.53
+65567,60,FL,Female,Married,No,Protein,Email,105.55
+65569,44,NY,Female,Married,Yes,Weight Loss,Email,159.87
+65570,24,GA,Female,Single,Yes,Protein,None,146.07
+65602,56,MD,Female,Married,Yes,Weight Loss,Email,121.57
+65602,39,OR,Female,Single,No,Vitamins,Email,152.16
+65635,25,NJ,Female,Single,Yes,Protein,Email,145.57
+65687,32,CA,Female,Married,Yes,Weight Loss,Email,162.43
+65695,28,VA,Female,Single,Yes,Protein,Email,148.4
+65704,43,CA,Female,Single,Yes,Weight Loss,None,160.6
+65704,54,MO,Female,Single,No,Vitamins,Email,93.19
+65712,28,NY,Female,Single,Yes,Vitamins,None,144.64
+65727,63,NY,Female,Married,Yes,Weight Loss,USPS,115.71
+65734,36,NY,Female,Married,Yes,Vitamins,USPS,128.21
+65748,25,TX,Female,Single,Yes,Weight Loss,None,148.76
+65773,47,FL,Female,Married,Yes,Protein,Email,137.84
+65777,40,FL,Female,Single,No,Protein,Email,121.47
+65805,38,NY,Female,Married,Yes,Protein,Email,160.84
+65862,50,CA,Female,Married,No,Weight Loss,Email,145.98
+65917,46,NY,Female,Married,Yes,Weight Loss,None,152.49
+65973,42,NY,Female,Single,No,Vitamins,Email,135.34
+65987,39,CA,Female,Single,Yes,Vitamins,None,156.9
+66079,33,MA,Female,Single,Yes,Protein,USPS,139.09
+66102,28,NY,Female,Single,Yes,Protein,Email,149.17
+66109,41,WA,Female,Single,Yes,Vitamins,Email,147.39
+66137,35,NY,Female,Married,No,Weight Loss,Email,124.22
+66138,50,NJ,Female,Single,No,Weight Loss,None,124.87
+66139,43,CA,Female,Single,No,Protein,Email,132.58
+66179,33,IL,Female,Married,Yes,Vitamins,USPS,146.18
+66179,52,MA,Female,Married,No,Weight Loss,Email,102.95
+66204,48,CA,Female,Married,Yes,Weight Loss,None,140.92
+66241,47,NY,Female,Married,No,Weight Loss,Email,119.64
+66256,38,FL,Female,Single,Yes,Protein,Email,154.74
+66257,26,CT,Female,Married,Yes,Weight Loss,None,119.93
+66264,56,CA,Female,Single,No,Vitamins,USPS,96.81
+66275,27,IL,Female,Single,Yes,Weight Loss,None,157.17
+66352,44,WA,Female,Married,Yes,Weight Loss,Email,144.82
+66401,38,VA,Female,Single,No,Protein,Email,135.64
+66447,46,FL,Female,Single,Yes,Weight Loss,None,122.29
+66484,46,TX,Female,Single,No,Protein,Email,126.12
+66549,27,NY,Female,Single,No,Protein,Email,141.87
+66568,45,FL,Female,Married,Yes,Weight Loss,USPS,101.74
+66574,37,MA,Female,Single,Yes,Protein,None,150.84
+66605,41,NJ,Female,Single,No,Weight Loss,Email,149.07
+66631,34,FL,Female,Single,No,Vitamins,USPS,128.03
+66677,34,FL,Female,Single,Yes,Weight Loss,None,157.94
+66686,42,NY,Female,Married,Yes,Protein,Email,149.31
+66690,28,FL,Female,Single,No,Protein,Email,142.28
+66696,36,NY,Female,Single,Yes,Protein,Email,145.68
+66762,27,CT,Female,Single,Yes,Protein,Email,149.93
+66844,29,TX,Female,Single,Yes,Vitamins,Email,182.58
+66852,50,NY,Female,Married,Yes,Weight Loss,Email,138.75
+66857,52,CA,Female,Single,Yes,Protein,Email,157.22
+66888,32,MI,Female,Single,Yes,Protein,Email,146.69
+66900,24,NJ,Female,Single,Yes,Weight Loss,None,154.16
+66937,36,NY,Female,Single,No,Weight Loss,Email,147.69
+67044,39,WA,Female,Single,No,Weight Loss,USPS,118.8
+67074,37,NY,Female,Single,Yes,Protein,None,158.78
+67078,32,MI,Female,Married,Yes,Weight Loss,None,130.57
+67113,51,MA,Female,Married,Yes,Protein,Email,137.64
+67114,36,NY,Female,Married,Yes,Weight Loss,USPS,144.16
+67167,29,PA,Female,Single,No,Vitamins,USPS,103.07
+67175,46,FL,Female,Married,Yes,Weight Loss,USPS,131.72
+67271,43,NY,Female,Married,No,Vitamins,Email,158.36
+67319,47,CA,Female,Married,Yes,Vitamins,Email,149.57
+67354,30,IL,Female,Married,Yes,Protein,USPS,156.16
+67400,25,NJ,Female,Single,Yes,Weight Loss,None,147.88
+67448,37,VA,Female,Single,Yes,Protein,USPS,138.53
+67511,39,MA,Female,Single,Yes,Weight Loss,None,158.12
+67523,50,TX,Female,Married,No,Protein,Email,126.95
+67550,35,MA,Female,Married,Yes,Weight Loss,None,144.31
+67586,25,WA,Female,Single,Yes,Weight Loss,None,150.81
+67620,27,FL,Female,Married,Yes,Weight Loss,None,149.63
+67683,22,WA,Female,Single,Yes,Vitamins,Email,146.05
+67797,44,MI,Female,Married,Yes,Weight Loss,None,138.81
+67821,41,PA,Female,Single,No,Protein,Email,163.06
+67891,26,IL,Female,Single,Yes,Protein,None,138.31
+67906,30,CA,Female,Married,No,Weight Loss,Email,122.57
+67906,41,OR,Female,Single,Yes,Weight Loss,Email,153.85
+68016,55,FL,Female,Married,Yes,Weight Loss,Email,121.42
+68078,26,MD,Female,Single,Yes,Protein,Email,150.76
+68094,33,PA,Female,Single,Yes,Vitamins,Email,166.41
+68121,29,FL,Female,Single,No,Weight Loss,Email,136.68
+68143,31,FL,Female,Single,Yes,Protein,None,149.51
+68154,42,NY,Female,Married,Yes,Protein,Email,171.15
+68184,33,MA,Female,Single,Yes,Weight Loss,Email,165.09
+68305,45,NY,Female,Married,Yes,Protein,Email,150.84
+68332,28,NY,Female,Single,Yes,Weight Loss,USPS,156.75
+68349,57,CA,Female,Married,Yes,Weight Loss,USPS,118.22
+68355,49,PA,Female,Single,No,Vitamins,Email,124.98
+68369,33,IL,Female,Married,Yes,Weight Loss,Email,159.71
+68482,36,NY,Female,Single,Yes,Vitamins,None,163.7
+68491,34,WA,Female,Single,No,Weight Loss,USPS,139.07
+68576,28,MA,Female,Single,Yes,Vitamins,None,124.9
+68588,37,MD,Female,Single,Yes,Weight Loss,None,126.62
+68599,46,IL,Female,Married,Yes,Weight Loss,Email,130.9
+68605,46,WA,Female,Married,Yes,Protein,Email,160.93
+68640,34,CA,Female,Married,No,Weight Loss,USPS,123.93
+68736,38,IL,Female,Single,No,Weight Loss,None,127.61
+68848,51,MA,Female,Married,Yes,Weight Loss,Email,136.68
+68974,46,MI,Female,Married,Yes,Protein,Email,145.49
+69040,31,FL,Female,Single,Yes,Protein,Email,148.93
+69042,38,IL,Female,Single,Yes,Protein,USPS,139.36
+69052,34,MA,Female,Single,Yes,Weight Loss,None,146.69
+69079,39,CA,Female,Single,Yes,Vitamins,None,158.27
+69130,24,IL,Female,Single,Yes,Weight Loss,USPS,127.86
+69137,47,CA,Female,Single,No,Weight Loss,Email,120.23
+69210,41,NY,Female,Single,No,Weight Loss,Email,160.23
+69214,51,WA,Female,Single,Yes,Vitamins,None,138.64
+69216,37,FL,Female,Single,Yes,Weight Loss,USPS,155.07
+69223,31,TX,Female,Single,Yes,Protein,USPS,148.69
+69305,43,MI,Female,Married,Yes,Weight Loss,Email,125.47
+69410,52,CA,Female,Single,Yes,Vitamins,None,154.04
+69420,25,MA,Female,Single,Yes,Vitamins,None,155.39
+69431,34,IL,Female,Single,Yes,Weight Loss,Email,174.19
+69544,26,TX,Female,Single,No,Weight Loss,USPS,115.36
+69547,40,CA,Female,Single,Yes,Vitamins,Email,164.38
+69560,31,WA,Female,Single,Yes,Protein,None,154.53
+69683,44,FL,Female,Married,No,Weight Loss,USPS,103.27
+69790,24,CA,Female,Married,Yes,Vitamins,USPS,126.98
+69876,30,NY,Female,Single,No,Weight Loss,USPS,129.33
+69890,33,IL,Female,Single,No,Vitamins,Email,127.18
+69914,46,NJ,Female,Single,No,Weight Loss,None,127.73
+69951,36,IL,Female,Single,Yes,Weight Loss,USPS,147.3
+70052,36,TX,Female,Married,Yes,Protein,Email,160.62
+70306,22,CT,Female,Single,Yes,Weight Loss,None,143.96
+70501,48,FL,Female,Single,Yes,Weight Loss,USPS,138.12
+70589,36,CA,Female,Married,No,Weight Loss,Email,142.08
+70746,29,NY,Female,Single,No,Vitamins,Email,162.34
+70899,29,WA,Female,Single,Yes,Vitamins,None,158.93
+71380,37,MI,Female,Married,Yes,Weight Loss,None,133.25
+71429,40,MA,Female,Married,Yes,Protein,None,144.5
+71613,36,NY,Female,Married,No,Weight Loss,USPS,134.05
+71676,38,FL,Female,Married,Yes,Weight Loss,None,157.66
+71804,40,OR,Female,Single,No,Weight Loss,USPS,115.76
+71966,39,PA,Female,Single,Yes,Vitamins,Email,140.2
+72179,52,IL,Female,Married,No,Weight Loss,Email,102.41
+73044,23,FL,Female,Single,Yes,Vitamins,Email,158.58
+73142,33,NY,Female,Married,Yes,Weight Loss,None,175.03
+73532,43,NY,Female,Single,Yes,Vitamins,Email,155.77
+74465,24,WA,Female,Single,Yes,Protein,USPS,144.83
+74723,46,WA,Female,Single,No,Weight Loss,Email,131.26
+74757,36,NY,Female,Single,Yes,Protein,USPS,131.52
+76569,48,CA,Female,Single,Yes,Weight Loss,None,130.06
+76931,30,MA,Female,Single,Yes,Vitamins,None,157.82
+78352,33,MI,Female,Single,No,Vitamins,USPS,134.29
+57196,31,OR,Male,Single,No,Protein,Email,108.26
+59168,42,MI,Male,Married,Yes,Vitamins,Email,101.68
+59337,39,IL,Male,Single,No,Weight Loss,None,109.74
+59752,25,FL,Male,Single,No,Vitamins,Email,125.19
+59875,25,MA,Male,Married,No,Protein,Email,103.7
+60617,28,NY,Male,Single,No,Weight Loss,Email,100.1
+60689,29,NJ,Male,Single,No,Protein,USPS,112.53
+61101,37,TX,Male,Single,Yes,Protein,None,130.71
+61209,31,FL,Male,Single,No,Protein,Email,106.98
+61299,23,FL,Male,Single,No,Weight Loss,USPS,88.88
+61392,27,NY,Male,Married,Yes,Weight Loss,None,81
+61532,34,NY,Male,Single,No,Protein,None,103.21
+61710,48,NJ,Male,Married,Yes,Protein,None,90.06
+61970,32,FL,Male,Single,No,Weight Loss,None,113.45
+62344,26,MI,Male,Single,Yes,Protein,None,140.94
+62376,43,NY,Male,Married,Yes,Weight Loss,USPS,78.88
+62424,23,MA,Male,Single,No,Protein,None,103.79
+62491,56,IL,Male,Married,No,Weight Loss,None,37.54
+62548,22,NY,Male,Married,Yes,Vitamins,None,89.15
+62981,38,MD,Male,Single,No,Protein,Email,97.34
+63050,33,NY,Male,Single,No,Vitamins,USPS,94.76
+63056,23,IL,Male,Married,Yes,Vitamins,Email,102.61
+63226,29,NJ,Male,Single,No,Protein,Email,102.76
+63257,42,OR,Male,Single,No,Protein,Email,106.53
+63572,44,NJ,Male,Married,No,Weight Loss,USPS,77.03
+63637,40,MD,Male,Married,No,Protein,Email,101.83
+63679,32,WA,Male,Single,No,Protein,Email,114.44
+63819,25,IL,Male,Single,No,Protein,None,107.18
+63859,22,CA,Male,Single,No,Weight Loss,Email,112.18
+63883,32,TX,Male,Married,Yes,Weight Loss,Email,113.98
+63916,44,CA,Male,Married,No,Protein,Email,66.45
+63992,20,TX,Male,Single,Yes,Protein,None,117.98
+64009,33,IL,Male,Married,Yes,Protein,Email,108.98
+64083,23,IL,Male,Single,Yes,Vitamins,None,127.91
+64093,35,NY,Male,Married,Yes,Weight Loss,None,120.02
+64112,26,IL,Male,Single,No,Vitamins,USPS,100.37
+64387,25,FL,Male,Married,Yes,Vitamins,USPS,105.1
+64414,30,NY,Male,Single,No,Weight Loss,None,109.61
+64465,24,MA,Male,Single,No,Vitamins,Email,97.78
+64472,33,IL,Male,Single,Yes,Protein,USPS,125.2
+64554,19,CA,Male,Single,Yes,Protein,None,111.3
+64578,22,NY,Male,Single,No,Vitamins,Email,98.05
+64660,34,MO,Male,Single,No,Protein,None,96.01
+64662,27,CA,Male,Single,Yes,Protein,None,129.33
+64749,27,NJ,Male,Single,Yes,Protein,None,112.86
+65116,33,CT,Male,Married,Yes,Protein,USPS,97.99
+65228,42,NY,Male,Married,Yes,Vitamins,USPS,69.62
+65286,49,NY,Male,Single,No,Protein,Email,107.07
+65357,37,MA,Male,Single,Yes,Protein,Email,104.57
+65357,28,FL,Male,Married,Yes,Protein,USPS,98.57
+65441,32,NY,Male,Single,Yes,Vitamins,None,115.18
+65514,43,FL,Male,Married,No,Weight Loss,USPS,93.93
+65533,26,TX,Male,Single,No,Vitamins,USPS,82.6
+65678,30,VA,Male,Married,No,Weight Loss,USPS,77.35
+65690,46,FL,Male,Single,No,Weight Loss,None,87.32
+65785,35,WA,Male,Single,Yes,Weight Loss,None,113.68
+65863,32,NY,Male,Single,No,Protein,None,131.69
+65885,26,FL,Male,Single,Yes,Protein,Email,114.45
+65885,32,TX,Male,Single,Yes,Weight Loss,USPS,123.23
+66009,34,WA,Male,Married,Yes,Vitamins,USPS,85.91
+66054,28,VA,Male,Single,Yes,Protein,None,120.79
+66100,35,VA,Male,Married,Yes,Vitamins,None,87.54
+66112,27,NY,Male,Single,Yes,Protein,None,110.7
+66159,36,FL,Male,Single,No,Weight Loss,USPS,104.31
+66315,45,WA,Male,Single,No,Protein,USPS,58
+66336,33,NY,Male,Single,Yes,Protein,None,148.31
+66345,45,NY,Male,Single,No,Vitamins,Email,118.26
+66435,35,OR,Male,Single,No,Weight Loss,None,88.41
+66456,31,MA,Male,Married,Yes,Protein,Email,111.59
+66463,32,FL,Male,Single,No,Vitamins,USPS,100.53
+66469,41,NY,Male,Single,No,Protein,USPS,90.93
+66473,21,IL,Male,Single,No,Weight Loss,None,107.27
+66475,33,NJ,Male,Single,No,Weight Loss,Email,105.36
+66504,58,NY,Male,Married,No,Weight Loss,None,43.14
+66511,35,FL,Male,Married,No,Weight Loss,Email,88.99
+66564,35,TX,Male,Married,Yes,Protein,USPS,117.24
+66574,33,NY,Male,Married,Yes,Protein,Email,109.11
+66616,49,IL,Male,Single,Yes,Protein,None,78.43
+66642,45,NY,Male,Single,No,Weight Loss,USPS,94.7
+66664,40,NY,Male,Single,No,Weight Loss,None,114.25
+66687,27,TX,Male,Single,Yes,Vitamins,None,112.37
+66783,38,IL,Male,Married,Yes,Protein,Email,96.15
+66800,35,VA,Male,Single,No,Protein,Email,86.63
+66830,34,MD,Male,Married,Yes,Protein,Email,103.09
+66870,25,TX,Male,Single,No,Protein,None,96.77
+66885,31,NJ,Male,Single,No,Protein,Email,115.59
+66888,49,NY,Male,Married,No,Protein,Email,76.71
+66916,18,NY,Male,Single,No,Protein,None,97.83
+66922,22,MD,Male,Single,Yes,Protein,None,105.35
+66992,30,NJ,Male,Single,Yes,Vitamins,None,129.53
+67089,34,MI,Male,Married,Yes,Protein,USPS,94.76
+67099,26,NY,Male,Single,Yes,Vitamins,None,118.92
+67218,33,IL,Male,Single,No,Vitamins,USPS,87.83
+67302,20,MD,Male,Married,Yes,Protein,None,95.61
+67319,29,MI,Male,Single,No,Protein,USPS,87.15
+67356,34,NY,Male,Single,Yes,Protein,None,107.93
+67428,25,NJ,Male,Single,No,Protein,None,102.89
+67439,26,FL,Male,Single,Yes,Vitamins,None,113.64
+67446,30,NY,Male,Single,No,Protein,Email,108.98
+67451,44,FL,Male,Married,Yes,Weight Loss,USPS,89.16
+67456,46,WA,Male,Married,No,Vitamins,Email,94.05
+67496,33,CA,Male,Single,Yes,Protein,None,126.9
+67577,28,IL,Male,Single,No,Vitamins,USPS,108.45
+67615,32,NY,Male,Married,No,Weight Loss,Email,94.86
+67635,36,NY,Male,Single,No,Protein,Email,118.92
+67714,32,CA,Male,Single,No,Weight Loss,None,96.34
+67717,39,NY,Male,Married,No,Protein,None,110.22
+67735,26,IL,Male,Single,No,Weight Loss,None,111.56
+67748,28,NY,Male,Married,No,Vitamins,None,95.45
+67752,22,IL,Male,Single,No,Protein,USPS,92.3
+67785,25,IL,Male,Single,Yes,Protein,None,120.98
+67817,26,IL,Male,Single,Yes,Vitamins,USPS,116.58
+67879,31,FL,Male,Married,Yes,Protein,None,106.36
+67880,25,FL,Male,Single,No,Weight Loss,Email,94.12
+67920,33,FL,Male,Single,Yes,Protein,Email,124.43
+67963,33,WA,Male,Single,No,Protein,USPS,116.69
+68095,55,NY,Male,Married,No,Weight Loss,None,37.05
+68097,51,IL,Male,Single,No,Weight Loss,Email,95.24
+68139,37,NY,Male,Married,Yes,Protein,Email,112.57
+68163,34,FL,Male,Single,No,Vitamins,None,111.66
+68173,28,MA,Male,Single,Yes,Protein,USPS,106.03
+68185,38,PA,Male,Married,No,Protein,Email,86.24
+68202,52,MD,Male,Married,No,Protein,USPS,58.98
+68290,25,MA,Male,Single,Yes,Protein,None,105.34
+68326,34,NY,Male,Single,No,Protein,None,138.93
+68334,29,TX,Male,Single,Yes,Protein,Email,111.53
+68356,49,NY,Male,Married,No,Weight Loss,Email,64.22
+68364,46,CA,Male,Single,No,Vitamins,Email,82.76
+68409,32,MI,Male,Married,No,Weight Loss,None,95.65
+68575,52,FL,Male,Married,No,Weight Loss,None,65.57
+68595,26,NY,Male,Married,Yes,Protein,None,129.42
+68595,36,MI,Male,Single,Yes,Protein,USPS,125.56
+68640,37,MA,Male,Married,No,Weight Loss,Email,102.99
+68691,38,CA,Male,Single,No,Protein,USPS,95.77
+68695,53,MI,Male,Single,No,Weight Loss,Email,67.03
+68716,50,MA,Male,Married,Yes,Vitamins,Email,81.53
+68743,30,TX,Male,Married,Yes,Vitamins,None,108.82
+68747,25,CA,Male,Married,Yes,Protein,None,120.69
+68791,22,TX,Male,Married,Yes,Weight Loss,None,97.6
+68797,30,NY,Male,Married,Yes,Vitamins,USPS,93.22
+68840,42,MA,Male,Single,No,Protein,Email,93.48
+68893,28,TX,Male,Single,No,Weight Loss,USPS,96.42
+68906,37,NY,Male,Single,No,Weight Loss,None,106.85
+68914,39,NJ,Male,Married,Yes,Weight Loss,Email,114.95
+68924,24,MA,Male,Single,No,Weight Loss,None,98.63
+68950,41,CA,Male,Married,Yes,Vitamins,Email,100.37
+68979,33,MA,Male,Single,Yes,Protein,None,113.7
+69004,35,NJ,Male,Single,Yes,Protein,Email,123.18
+69011,18,NY,Male,Single,No,Protein,Email,125.31
+69071,39,NY,Male,Married,No,Weight Loss,None,77.97
+69160,45,IL,Male,Single,No,Vitamins,None,89.87
+69244,23,NY,Male,Single,Yes,Protein,Email,140.46
+69276,28,CA,Male,Single,No,Vitamins,Email,110.59
+69286,31,NJ,Male,Single,Yes,Protein,USPS,121.56
+69294,32,MI,Male,Married,Yes,Protein,Email,97.04
+69373,45,CA,Male,Single,No,Protein,Email,105.67
+69379,36,FL,Male,Single,No,Protein,None,91.32
+69388,32,CA,Male,Single,Yes,Vitamins,None,126.36
+69407,35,FL,Male,Single,Yes,Protein,None,140.39
+69451,43,FL,Male,Married,Yes,Weight Loss,None,98.74
+69488,33,IL,Male,Single,No,Vitamins,USPS,112.26
+69504,33,WA,Male,Married,Yes,Protein,None,113.75
+69513,26,NY,Male,Married,No,Weight Loss,Email,120.1
+69517,25,CA,Male,Single,No,Vitamins,None,119.98
+69523,37,MI,Male,Married,Yes,Weight Loss,None,101.42
+69548,29,FL,Male,Single,No,Vitamins,USPS,83.1
+69593,36,IL,Male,Single,No,Protein,None,87.23
+69640,20,MI,Male,Single,Yes,Protein,None,106.32
+69662,45,MD,Male,Married,No,Vitamins,None,54.1
+69700,46,CA,Male,Single,No,Weight Loss,USPS,67.07
+69787,24,IL,Male,Single,Yes,Protein,None,126.59
+69827,37,GA,Male,Single,No,Weight Loss,None,89.26
+69829,45,NY,Male,Married,Yes,Protein,None,120.85
+69872,30,WA,Male,Married,Yes,Protein,USPS,108.47
+69878,47,IL,Male,Married,Yes,Protein,None,92.69
+69892,31,PA,Male,Single,No,Weight Loss,USPS,79.86
+69903,40,FL,Male,Single,No,Weight Loss,None,90.32
+69923,26,NJ,Male,Single,No,Weight Loss,None,112.23
+69949,25,MA,Male,Married,Yes,Vitamins,None,111.83
+69993,29,FL,Male,Single,No,Weight Loss,Email,116.75
+70054,29,IL,Male,Married,Yes,Protein,Email,123.75
+70074,40,TX,Male,Single,No,Protein,Email,128.32
+70125,30,MA,Male,Single,No,Weight Loss,None,98.49
+70156,30,CA,Male,Single,No,Protein,USPS,100.68
+70162,28,IL,Male,Single,Yes,Protein,USPS,110.13
+70172,30,FL,Male,Single,No,Protein,None,131.08
+70173,43,NY,Male,Married,Yes,Protein,Email,99.5
+70181,55,VA,Male,Married,No,Protein,USPS,11.46
+70239,20,OR,Male,Single,Yes,Weight Loss,None,104.62
+70240,51,NY,Male,Married,No,Weight Loss,Email,76.09
+70268,23,NY,Male,Single,Yes,Protein,None,107.27
+70309,24,MD,Male,Single,Yes,Vitamins,None,127.8
+70313,28,NY,Male,Single,No,Protein,USPS,102.51
+70353,47,NY,Male,Married,Yes,Vitamins,None,93.12
+70379,25,FL,Male,Single,No,Protein,None,110.6
+70410,27,NJ,Male,Single,No,Vitamins,USPS,81.74
+70416,25,OR,Male,Married,Yes,Vitamins,Email,121.69
+70419,41,CA,Male,Married,Yes,Protein,Email,106.15
+70426,28,VA,Male,Single,No,Vitamins,None,91.96
+70474,39,MA,Male,Married,Yes,Weight Loss,None,114.98
+70495,29,NY,Male,Single,No,Weight Loss,Email,110.78
+70519,42,FL,Male,Single,No,Vitamins,Email,73.67
+70524,32,FL,Male,Married,No,Protein,Email,91.09
+70533,31,GA,Male,Single,Yes,Protein,Email,134.54
+70535,33,MA,Male,Single,No,Vitamins,Email,120.23
+70544,39,PA,Male,Married,Yes,Protein,Email,103.9
+70551,42,IL,Male,Single,No,Vitamins,USPS,86.81
+70584,47,NY,Male,Single,No,Protein,USPS,91.27
+70652,18,CA,Male,Single,No,Protein,Email,98.39
+70656,20,CA,Male,Single,No,Protein,None,97.47
+70677,25,CA,Male,Single,No,Weight Loss,None,96.18
+70681,28,NJ,Male,Single,Yes,Protein,None,136.13
+70690,41,IL,Male,Single,No,Protein,Email,84.83
+70701,38,FL,Male,Single,No,Vitamins,None,90.53
+70708,40,MA,Male,Married,No,Weight Loss,Email,89.01
+70737,40,CA,Male,Single,No,Weight Loss,None,92.37
+70740,51,NY,Male,Married,Yes,Vitamins,USPS,65.19
+70768,23,TX,Male,Single,Yes,Protein,USPS,89.16
+70776,48,NY,Male,Married,No,Protein,USPS,53.46
+70776,31,MD,Male,Single,No,Protein,Email,129.48
+70827,39,CA,Male,Single,No,Weight Loss,USPS,104.19
+70846,38,TX,Male,Single,Yes,Protein,None,113.71
+70893,19,MD,Male,Married,Yes,Vitamins,Email,90.13
+70905,41,NY,Male,Married,No,Vitamins,Email,105.47
+70916,25,IL,Male,Single,Yes,Protein,None,135.09
+70953,25,CT,Male,Single,Yes,Weight Loss,None,130.01
+70972,36,FL,Male,Married,Yes,Protein,None,106.18
+70978,26,NJ,Male,Married,No,Weight Loss,USPS,85.18
+71018,40,IL,Male,Single,No,Protein,USPS,97.47
+71026,57,CA,Male,Single,No,Protein,None,55.43
+71036,38,CA,Male,Married,No,Weight Loss,USPS,91.58
+71041,31,TX,Male,Single,No,Protein,None,106.08
+71046,23,WA,Male,Single,Yes,Protein,None,110.39
+71085,44,NY,Male,Married,Yes,Protein,Email,110.83
+71105,40,MI,Male,Married,Yes,Weight Loss,USPS,90.01
+71139,43,IL,Male,Married,Yes,Protein,Email,106.79
+71184,29,NY,Male,Single,No,Weight Loss,None,112.54
+71207,39,MA,Male,Married,Yes,Protein,Email,104.49
+71226,31,VA,Male,Single,Yes,Protein,Email,138.91
+71265,36,TX,Male,Married,Yes,Vitamins,Email,95.98
+71302,31,NY,Male,Single,Yes,Vitamins,None,114.68
+71331,22,FL,Male,Married,Yes,Protein,Email,134.74
+71361,33,TX,Male,Married,Yes,Protein,USPS,77.21
+71361,42,IL,Male,Married,No,Weight Loss,Email,81.07
+71415,43,GA,Male,Married,Yes,Vitamins,USPS,51
+71431,35,IL,Male,Single,No,Vitamins,None,100.72
+71559,29,NY,Male,Single,No,Protein,Email,124.85
+71654,37,MI,Male,Single,No,Vitamins,USPS,76.47
+71688,43,IL,Male,Single,No,Vitamins,None,108.1
+71692,41,IL,Male,Married,Yes,Weight Loss,USPS,95.95
+71694,36,OR,Male,Single,No,Protein,Email,80.63
+71729,43,MI,Male,Married,Yes,Weight Loss,None,103.09
+71796,33,NY,Male,Married,No,Weight Loss,None,100.21
+71852,44,IL,Male,Married,Yes,Protein,USPS,91.48
+71863,26,MI,Male,Single,Yes,Protein,None,114.73
+71951,23,VA,Male,Single,No,Protein,USPS,82.98
+72027,44,IL,Male,Single,No,Weight Loss,None,92.46
+72065,23,FL,Male,Single,Yes,Protein,None,114.29
+72091,31,PA,Male,Married,Yes,Protein,Email,103.5
+72136,32,FL,Male,Married,No,Vitamins,USPS,112.2
+72179,34,WA,Male,Single,No,Protein,Email,118.82
+72185,27,CA,Male,Married,No,Weight Loss,None,99.62
+72199,29,FL,Male,Single,No,Weight Loss,USPS,77.24
+72203,41,NJ,Male,Single,Yes,Protein,None,112.85
+72211,30,CA,Male,Single,No,Weight Loss,None,112.17
+72215,31,NY,Male,Single,No,Protein,Email,113.68
+72238,32,TX,Male,Single,Yes,Protein,None,108.88
+72250,38,GA,Male,Married,Yes,Protein,Email,131.65
+72267,19,IL,Male,Single,No,Vitamins,None,92.94
+72272,40,TX,Male,Single,No,Protein,Email,108.4
+72352,33,TX,Male,Single,No,Vitamins,Email,100.13
+72383,46,TX,Male,Married,No,Vitamins,Email,68.93
+72398,40,CA,Male,Married,No,Weight Loss,None,104.75
+72403,36,MD,Male,Single,No,Vitamins,Email,117.43
+72437,32,OR,Male,Single,No,Protein,Email,98.63
+72444,42,FL,Male,Married,No,Vitamins,Email,84.55
+72451,45,IL,Male,Married,No,Vitamins,Email,102.23
+72478,36,IL,Male,Married,Yes,Protein,USPS,91.47
+72485,22,CA,Male,Married,No,Weight Loss,None,100.03
+72489,21,FL,Male,Single,Yes,Vitamins,None,108.42
+72525,30,FL,Male,Married,Yes,Vitamins,Email,108.77
+72584,50,FL,Male,Married,No,Vitamins,Email,66.76
+72614,31,NY,Male,Married,Yes,Vitamins,Email,119.88
+72642,36,IL,Male,Married,Yes,Protein,USPS,102.12
+72689,33,CA,Male,Married,Yes,Protein,None,110.15
+72708,45,NY,Male,Married,No,Vitamins,USPS,84.22
+72725,29,TX,Male,Single,No,Protein,Email,110.15
+72791,30,NY,Male,Married,Yes,Vitamins,None,104.23
+72997,35,IL,Male,Single,No,Vitamins,None,82.27
+73001,32,NJ,Male,Single,Yes,Protein,USPS,117.43
+73013,27,NY,Male,Single,No,Weight Loss,Email,101.82
+73024,27,IL,Male,Single,No,Protein,None,95.52
+73087,23,MI,Male,Single,Yes,Protein,Email,118.97
+73141,27,CA,Male,Married,Yes,Vitamins,USPS,106.81
+73185,40,NY,Male,Single,No,Weight Loss,None,90.97
+73253,21,IL,Male,Married,Yes,Weight Loss,None,106.43
+73254,36,NJ,Male,Married,No,Weight Loss,None,100.37
+73287,41,CA,Male,Married,No,Protein,Email,93.01
+73301,50,IL,Male,Married,Yes,Vitamins,USPS,69.19
+73342,30,NJ,Male,Single,No,Weight Loss,None,113.83
+73380,23,CA,Male,Single,Yes,Vitamins,None,103.54
+73380,23,WA,Male,Married,Yes,Weight Loss,None,100.17
+73423,47,TX,Male,Married,Yes,Protein,Email,98.65
+73426,25,NJ,Male,Single,Yes,Weight Loss,USPS,116.34
+73444,46,IL,Male,Married,Yes,Vitamins,Email,117.31
+73460,33,NJ,Male,Married,No,Weight Loss,Email,102.32
+73543,42,CA,Male,Married,No,Weight Loss,Email,89.12
+73634,32,FL,Male,Married,Yes,Vitamins,None,86.86
+73698,21,VA,Male,Single,Yes,Protein,USPS,95.02
+73738,35,NY,Male,Single,No,Weight Loss,Email,114.2
+73745,37,FL,Male,Single,No,Vitamins,None,86.03
+73762,37,OR,Male,Single,Yes,Protein,None,97.66
+73846,35,NY,Male,Married,Yes,Weight Loss,USPS,98.55
+73848,40,CA,Male,Married,Yes,Protein,USPS,100.04
+73849,38,WA,Male,Married,No,Weight Loss,Email,107.6
+73888,38,NY,Male,Married,No,Vitamins,Email,94.41
+73974,22,FL,Male,Single,Yes,Protein,None,115.81
+74016,37,IL,Male,Single,No,Weight Loss,Email,117.45
+74144,48,NY,Male,Married,No,Weight Loss,Email,71.7
+74195,19,MA,Male,Single,No,Vitamins,None,94.08
+74220,33,FL,Male,Married,Yes,Protein,None,122.94
+74229,33,CT,Male,Married,Yes,Weight Loss,Email,108.55
+74292,33,CA,Male,Married,No,Weight Loss,None,98.62
+74311,23,FL,Male,Single,No,Vitamins,None,106.37
+74325,37,VA,Male,Married,Yes,Protein,None,107.3
+74395,32,CA,Male,Single,Yes,Weight Loss,USPS,149.24
+74429,25,CA,Male,Single,No,Weight Loss,USPS,96.51
+74500,41,NJ,Male,Married,No,Vitamins,None,81.82
+74505,41,NY,Male,Married,Yes,Weight Loss,None,135.21
+74509,39,IL,Male,Married,No,Weight Loss,USPS,73.49
+74569,41,NY,Male,Married,Yes,Vitamins,None,103.18
+74592,48,TX,Male,Single,No,Vitamins,Email,61.98
+74614,26,OR,Male,Married,No,Protein,Email,122.22
+74688,32,MA,Male,Single,No,Protein,Email,100.16
+74691,34,FL,Male,Single,No,Protein,Email,109.64
+74692,28,NY,Male,Married,Yes,Protein,None,100.9
+74735,26,NY,Male,Single,Yes,Protein,USPS,115.25
+74786,36,WA,Male,Married,Yes,Vitamins,None,123.35
+74800,35,CT,Male,Single,No,Protein,Email,86.65
+74896,28,VA,Male,Single,Yes,Vitamins,None,112.84
+74902,39,NJ,Male,Married,No,Weight Loss,None,84.02
+74908,19,NY,Male,Single,No,Protein,USPS,98.26
+74946,46,MD,Male,Married,Yes,Weight Loss,None,81.28
+74970,36,FL,Male,Single,No,Protein,Email,111.98
+75001,28,CA,Male,Single,No,Protein,USPS,95.43
+75008,26,NY,Male,Married,No,Protein,Email,118.36
+75093,39,PA,Male,Married,No,Protein,None,64.44
+75129,39,FL,Male,Single,No,Protein,None,81.33
+75225,25,IL,Male,Single,Yes,Protein,USPS,102.65
+75259,39,NY,Male,Married,No,Weight Loss,None,83.91
+75316,29,MA,Male,Single,No,Protein,USPS,100.67
+75332,21,NY,Male,Single,Yes,Vitamins,USPS,133.67
+75381,25,FL,Male,Married,Yes,Weight Loss,None,109.59
+75383,24,VA,Male,Single,Yes,Protein,USPS,124.77
+75422,26,NY,Male,Single,No,Protein,Email,114.83
+75489,28,IL,Male,Married,Yes,Protein,Email,114.31
+75618,41,VA,Male,Married,No,Vitamins,USPS,75.23
+75638,31,WA,Male,Single,No,Protein,Email,118
+75651,32,NJ,Male,Married,Yes,Protein,Email,115.41
+75658,43,FL,Male,Married,Yes,Weight Loss,Email,107.76
+75659,37,NY,Male,Single,No,Vitamins,None,118.33
+75762,42,NY,Male,Single,No,Weight Loss,Email,91.04
+75779,38,CA,Male,Single,No,Weight Loss,Email,112.74
+75789,26,FL,Male,Single,Yes,Vitamins,USPS,99.57
+75816,40,TX,Male,Married,No,Weight Loss,Email,87.3
+75817,36,NY,Male,Married,No,Protein,USPS,103.78
+75862,20,NY,Male,Single,No,Protein,None,100.93
+75866,28,NY,Male,Single,No,Protein,Email,114.23
+75976,22,MA,Male,Single,No,Protein,USPS,92
+76019,30,CT,Male,Married,No,Weight Loss,None,83.18
+76045,36,IL,Male,Married,No,Weight Loss,None,80.93
+76157,34,NY,Male,Married,No,Protein,None,89.05
+76170,28,GA,Male,Single,Yes,Vitamins,None,99.14
+76170,32,NY,Male,Single,No,Vitamins,None,90.3
+76180,30,MA,Male,Single,Yes,Vitamins,None,136.83
+76210,27,NY,Male,Single,No,Vitamins,Email,127.14
+76221,36,FL,Male,Single,No,Vitamins,Email,90.93
+76303,33,MA,Male,Single,Yes,Vitamins,None,143.34
+76399,27,FL,Male,Single,Yes,Protein,Email,93.09
+76490,33,NJ,Male,Single,No,Protein,USPS,109.09
+76518,23,PA,Male,Single,Yes,Vitamins,None,98.66
+76657,32,IL,Male,Single,No,Vitamins,None,114.42
+76720,29,FL,Male,Married,No,Weight Loss,None,82.42
+76835,37,FL,Male,Married,Yes,Protein,None,107.01
+76866,36,IL,Male,Single,No,Protein,Email,122.17
+76882,33,WA,Male,Single,No,Protein,USPS,99.05
+76919,32,CA,Male,Single,Yes,Protein,Email,111.6
+76950,34,NY,Male,Married,Yes,Protein,None,126.76
+77030,28,MI,Male,Single,No,Protein,Email,122.83
+77059,22,IL,Male,Single,No,Protein,Email,112.01
+77088,26,TX,Male,Single,Yes,Protein,Email,104.69
+77109,37,FL,Male,Single,No,Protein,Email,99.49
+77111,36,NY,Male,Single,Yes,Protein,USPS,126.63
+77233,36,NY,Male,Single,No,Protein,USPS,114.56
+77275,24,NY,Male,Single,No,Protein,None,126.7
+77332,18,CA,Male,Single,No,Protein,USPS,74.49
+77342,38,NJ,Male,Single,No,Protein,None,95.03
+77444,33,NY,Male,Married,No,Weight Loss,None,104.99
+77474,46,FL,Male,Married,No,Protein,Email,100.41
+77544,47,NY,Male,Married,No,Vitamins,USPS,69.06
+77734,28,NY,Male,Married,Yes,Protein,USPS,109.3
+77802,27,IL,Male,Single,No,Vitamins,USPS,106.15
+77891,35,MA,Male,Single,No,Vitamins,USPS,104.65
+77893,50,NY,Male,Married,No,Weight Loss,USPS,79.53
+78029,46,IL,Male,Single,No,Vitamins,USPS,79.14
+78064,37,CA,Male,Single,No,Protein,None,98.14
+78068,36,CA,Male,Married,No,Protein,None,64.37
+78095,21,MD,Male,Single,Yes,Protein,None,96.82
+78273,29,NJ,Male,Single,No,Weight Loss,Email,128.42
+78298,40,NY,Male,Married,No,Weight Loss,None,95.33
+78301,41,NY,Male,Married,Yes,Weight Loss,Email,96.39
+78478,31,NJ,Male,Single,No,Protein,Email,109.24
+78578,19,NJ,Male,Single,Yes,Vitamins,Email,125.08
+78657,45,FL,Male,Single,No,Weight Loss,USPS,52.17
+78660,25,IL,Male,Single,No,Vitamins,None,98.71
+78759,35,FL,Male,Single,No,Protein,Email,116.21
+78884,37,FL,Male,Single,No,Protein,Email,105.01
+78897,29,OR,Male,Single,No,Weight Loss,Email,93.97
+79131,46,NJ,Male,Married,Yes,Protein,Email,82.92
+79171,29,MD,Male,Single,No,Protein,None,89.15
+79367,45,NY,Male,Married,No,Vitamins,Email,102.62
+79499,39,NY,Male,Married,Yes,Protein,Email,111.24
+79903,19,IL,Male,Single,Yes,Vitamins,None,125.66
+80086,19,NY,Male,Married,Yes,Vitamins,None,109.79
+80128,37,FL,Male,Single,No,Protein,None,96.53
+80229,26,FL,Male,Married,Yes,Protein,Email,101.29
+80348,25,IL,Male,Married,No,Vitamins,Email,88.78
+80592,32,MI,Male,Married,Yes,Protein,None,84.38
+80664,20,FL,Male,Married,No,Protein,Email,82.37
+80772,61,MI,Male,Single,No,Protein,None,30.74
+80790,43,CA,Male,Single,No,Vitamins,USPS,93.23
+80811,28,IL,Male,Single,No,Weight Loss,USPS,72.66
+80849,31,CA,Male,Single,No,Vitamins,None,134.22
+80857,38,OR,Male,Single,Yes,Protein,None,125.22
+81228,43,NY,Male,Married,Yes,Weight Loss,USPS,86.43
+81589,35,NY,Male,Married,Yes,Weight Loss,None,124.43
+81615,24,MA,Male,Single,No,Protein,None,108.7
+81677,30,NY,Male,Single,No,Weight Loss,None,109.18
+81733,43,NY,Male,Single,Yes,Weight Loss,Email,103.44
+82246,34,MA,Male,Single,Yes,Protein,USPS,96.48
+82328,20,FL,Male,Married,Yes,Protein,None,107.16
+83251,46,WA,Male,Married,No,Weight Loss,None,62.08
+84704,41,CA,Male,Married,No,Weight Loss,Email,116.39
+84829,28,IL,Male,Married,No,Protein,USPS,78.55
+85153,23,VA,Male,Single,Yes,Protein,Email,112.28
+86724,29,GA,Male,Married,Yes,Protein,Email,88.63
+,,,,,,,,
