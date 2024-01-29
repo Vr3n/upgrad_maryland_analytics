@@ -1,0 +1,22 @@
+Attribute,Mapping
+customerID: The ID of the customer,
+tenure: The time for which a customer has been using the service,Numeric
+PhoneService: If a customer has opted for the phone service or not,"'Yes': 1, ""No"": 0"
+"Contract: If a customer has opted for a one year, a two year or a month-to-month contract","'Month-to-month': 0, 'One year': 1, 'Two year': 2"
+PaperlessBilling: If a customer has opted for a paperless billing service or not,"'Yes': 1, ""No"": 0"
+PaymentMethod: The type of payment method a customer has opted for,"'Bank transfer (automatic)': 0, 'Electronic check': 1, 'Mailed check': 2, 'Credit card (automatic)': 3"
+MonthlyCharges: Specifies the money paid by a customer each month.,Numeric
+TotalCharges: The total money paid by the customer to the company.,Numeric
+"gender: The gender of the customer. (0 if Female, 1 if Male)","'Female': 0, 'Male': 1"
+SeniorCitizen: If a customer is a senior citizen or not,"'Yes': 1, ""No"": 0"
+Partner: If a customer is married/ in a live-in relationship.,"'Yes': 1, ""No"": 0"
+Dependents: If a customer has family members who depend on him/her for financial support,"'Yes': 1, ""No"": 0"
+MultipleLines: Whether a customer has multiple lines of internet connectivity.,"'No phone service': 0, 'No': 1, 'Yes': 2"
+InternetService: The type of internet service provider a customer has opted for,"'DSL': 0, 'Fiber optic': 1, 'No': 2"
+OnlineSecurity: If a customer has setup an online security or not,"'No internet service': 0, 'No': 1, 'Yes': 2"
+OnlineBackup: If a customer has chosen an online backup option or not,"'No internet service': 0, 'No': 1, 'Yes': 2"
+DeviceProtection: If a customer has chosen a device protection feature or not,"'No internet service': 0, 'No': 1, 'Yes': 2"
+TechSupport: If a customer has chosen a technical support feature or not,"'No internet service': 0, 'No': 1, 'Yes': 2"
+StreamingTV: If a customer has chosen a TV streaming service or not,"'No internet service': 0, 'No': 1, 'Yes': 2"
+StreamingMovies: If a customer has chosen a movie streaming service or not,"'No internet service': 0, 'No': 1, 'Yes': 2"
+"Churn: Whether a customer has churned, i.e. left the company or not (0 if not churn, 1 if churn)","'Yes': 1, ""No"": 0"

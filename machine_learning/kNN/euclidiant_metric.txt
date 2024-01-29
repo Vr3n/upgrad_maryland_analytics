@@ -1,0 +1,7 @@
+Distance metric - Categorical Variables.
+
+1. If we have binary data. We could use Euclidean metric, but you may have more success with specialized distance metrics:
+	- The Matching Coefficient measures how many 1 to 1 matches and 0 to 0 matches occur in comparison to the total number of data elements.
+	- The matching distance which measures dissimilarity between records, is complementary to the Matching coefficient and is obtained by subtracting the matching coefficient from 1.
+
+## Example is in distance_matric.py
